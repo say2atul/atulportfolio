@@ -23,7 +23,7 @@ body::before {
   background: #040404 url("../img/bg-hero.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
-  right: 0;
+  right: -121;
   top: 0;
   height: 100vh;
   z-index: -1;
