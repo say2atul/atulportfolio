@@ -28,9 +28,9 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
-@media (min-width: 444px) {
+@media (min-width: 444px) and (max-width:500px) {
   body::before {
-    right: -121px;
+    right: -121px!important;
   }
 }
 @media (min-width: 1024px) {
